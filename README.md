@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Vikas
 
-<!--
-**vikasch026/vikasch026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Software Developer | Backend Engineering | Golang Enthusiast**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🔹 Skilled in **Golang**, building scalable and performant backend systems  
+- 🔹 Experienced with **Kafka, Microservices, Event-driven Architectures**  
+- 🔹 Interested in **performance optimization, distributed systems, and clean architecture**  
+- 🔹 Currently exploring advanced **system design patterns** and **DevOps practices**
+
+---
+
+### 🛠️ Tech Stack
+- **Languages:** Golang, Java, Python (basics)  
+- **Databases:** PostgreSQL, Redis, MongoDB  
+- **Messaging:** Kafka, RabbitMQ  
+- **Tools & Platforms:** Docker, Kubernetes, Git, CI/CD, AWS  
+
+---
+
+### 📚 Learning & Growth
+- Currently working on **saga patterns for distributed transactions**  
+- Learning from courses like *Ultimate Go (Ardan Labs)* and advanced Golang blogs  
+- Exploring **open-source contributions** to improve Go ecosystem knowledge  
+
+---
+
+### 📈 GitHub Stats
+![Vikas's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikaschoudhary&show_icons=true&theme=tokyonight)
+
+---
+
+### 🌐 Connect with Me
+- 💼 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/vikaschoudhary2096/))  
+- 📝 [Blog / Notes](https://your-blog-link.com)  
+- 📧 Reach me at: *vkschoudhary001@gmail.com*
+
+---
+
+⭐️ *“Always learning, always coding.”*  
